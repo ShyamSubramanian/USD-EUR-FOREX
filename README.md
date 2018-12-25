@@ -1,2 +1,2 @@
 # USD-EUR-FOREX
-Predicting the exchange between USD and EUR currencies
+Predicting the exchange rate between USD and EUR currencies
